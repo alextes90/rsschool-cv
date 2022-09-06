@@ -1,8 +1,8 @@
 # Teslin Aleksandr
 
----
-
 #### Junior Frontend Developer
+
+---
 
 ## Contact information
 
@@ -10,6 +10,8 @@
 - **Email:** a.teslin90@gmail.com
 - **GitHub:** [@alextes90](https://github.com/alextes90 "GitHub NickName")
 - **Codewars Profile** [alextes90](https://www.codewars.com/users/alextes90)
+
+---
 
 ## About Me
 
@@ -19,7 +21,7 @@ For now has decided to change the sphere of work. Has passed JS courses from Ude
 ## Skills and Courses Passed
 
 - HTML, CSS
-- JS (_[From Zero to Expert!](https://www.udemy.com/)_)
+- JS
 - Git, GitHub
 - VS Code, parcel, npm, MVC
 
@@ -50,10 +52,15 @@ function dirReduc(arr) {
 
 ## Courses:
 
-1 _[code-basicks](https://code-basics.com/)_
-2 _[From Zero to Expert!](https://www.udemy.com/)_
-3 _[RS School](https://rs.school/)_
+1. _[code-basicks](https://code-basics.com/)_
+2. _[From Zero to Expert!](https://www.udemy.com/)_
+3. _[RS School](https://rs.school/)_
 
 ## English
 
-B2/C1 Upper-intermediate/advanced. _Have made some negotiations in English.(With the foreign customers)_
+B2/C1 Upper-intermediate/advanced. _Have experience negotiating in English.(With the foreign customers)_
+
+| Name  | Age |
+| ----- | --- |
+| Alex  | 32  |
+| Daria | 31  |
